@@ -1,12 +1,12 @@
 {
   "name": "abebablom",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Generic web app skeleton",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "https://github.com/Jimimimi",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
